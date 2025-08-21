@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/srishtisharma44/srishtisharma44/blob/main/github.png" alt="Banner Image" width="100%" height="240">
+</p>
+
 # Hey, I'm Srishti Sharma  
 
 - MCA Student at Thapar University  
